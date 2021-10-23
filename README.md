@@ -1,4 +1,8 @@
-### Hi there 👋
+## Nice to meet you 👋
+
+I'm Fabien, a french fullstack developer 🇫🇷. Gratuated at Epitech Nantes, I've spend 1 year studying in Bahrein 🎓. Tech lover & passionnate, I spend lot of time developping all kind of applications. If you want to learn more about me, feel free to contact me 📬.
+
+## My github stats 📈
 
 <div align="center">
   
