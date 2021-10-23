@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fernan-x&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fernan-x&show_icons=true&theme=gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=dark)
 
