@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fernan-x)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fernan-x&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=dark)
 
 <!--
 **fernan-x/fernan-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
