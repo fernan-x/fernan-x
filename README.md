@@ -1,4 +1,9 @@
-## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+<img src="assets/image.svg" width="300px" />
+</div>
+
+
+## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 I'm Fabien, a french fullstack developer 🇫🇷. Tech lover & passionnate, I spend lot of time developping all kind of applications.
 
@@ -17,7 +22,7 @@ If you want to learn more about me, feel free to contact me 📬.
   <hr/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=vue-dark)
-  
+
 </div>
 
 ## Get in touch with some of my skills <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="30px" />
@@ -31,3 +36,5 @@ If you want to learn more about me, feel free to contact me 📬.
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
+
+<!--<img align="left" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" height="285px" />-->
