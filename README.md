@@ -25,6 +25,12 @@ If you want to learn more about me, feel free to contact me 📬.
 
 </div>
 
+## My daily dev stats
+
+<div align="center">
+    <a href="https://app.daily.dev/Shads"><img src="https://api.daily.dev/devcards/47c1ba61a5c347769169e43c39c9c90e.png?r=g28" width="400" alt="Fabien Fernandes Alves's Dev Card"/></a>
+</div>
+
 ## Get in touch with some of my skills <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="30px" />
 
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
