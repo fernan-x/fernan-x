@@ -1,0 +1,22 @@
+# Update the dailydev card 
+
+name: DevCard
+
+# Run the cronjob every night at 00:00
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+# Run the DevCard action
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.4
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
