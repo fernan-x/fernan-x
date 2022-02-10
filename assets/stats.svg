@@ -3,46 +3,24 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        .tags {
+       .github__stats {
           display: flex;
-          flex-wrap: wrap;
-          height: 100%;
           width: 100%;
-          margin-bottom: 5px;
-        }
-        .tag {
-          display: flex;
           align-items: center;
-          justify-content: center;
-          gap: 5px;
-          padding: 5px 15px;
-          border-radius: 10px;
-          font-weight: 500;
-          font-size: 0.85rem;
-          width: fit-content;
-          white-space: nowrap;
-          font-family:sans-serif;
-          background-color: #e3ffff;
-          color: #0ca4a5;
-          margin: 0.125em;
+        }
+        
+        .github__stats-stat, .github__stats-language {
+          margin: 0 2rem;
         }
       </style>
 
-      <div class="tags">
-        <div class="tag">Vue</div>
-        <div class="tag">React</div>
-        <div class="tag">Svelte</div>
-        <div class="tag">Angular</div>
-      </div>
-      <div class="tags">
-        <div class="tag">SASS</div>
-        <div class="tag">TypeScript</div>
-        <div class="tag">Atomic Design</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">PWAs</div>
+      <div class="github__stats">
+        <div class="github__stats-stat">
+          <img src="https://github-readme-stats.vercel.app/api?username=fernan-x&show_icons=true&theme=vue-dark" alt="Github stats"/>
+        </div>
+        <div class="github__stats-language">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=vue-dark" alt="Github language"/>
+        </div>
       </div>
 
     </div>
