@@ -16,10 +16,10 @@
 
       <div class="github__stats">
         <div class="github__stats-stat">
-          <img src="https://github-readme-stats.vercel.app/api?username=fernan-x#38show_icons=true#38theme=vue-dark" alt="Github stats"/>
+          <image xlink:href="https://github-readme-stats.vercel.app/api?username=fernan-x#38show_icons=true#38theme=vue-dark" alt="Github stats"/>
         </div>
         <div class="github__stats-language">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x#38show_icons=true#38theme=vue-dark" alt="Github language"/>
+          <image xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x#38show_icons=true#38theme=vue-dark" alt="Github language"/>
         </div>
       </div>
 
