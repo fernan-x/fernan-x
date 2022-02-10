@@ -17,13 +17,12 @@
 
       <div class="github__stats">
         <div class="github__stats-stat">
-<!--          <h1>Test</h1>
-          <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b" alt="Github stats"/>-->
+          <h1>Test</h1>
           <image href="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b"/>
         </div>
         <div class="github__stats-language">
-                    <h1>Test</h1>
-<!--          <image xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=vue-dark" alt="Github language"/>-->
+          <h1>Test 2</h1>
+          <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=vue-dark" alt="Github language"/>-->
         </div>
       </div>
 
