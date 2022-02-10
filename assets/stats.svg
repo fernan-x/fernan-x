@@ -18,7 +18,7 @@
       <div class="github__stats">
         <div class="github__stats-stat">
           <h1>Test</h1>
-          <img xlink:src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b" alt="Github stats"/>
+          <img xlink:href="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b" alt="Github stats"/>
         </div>
         <div class="github__stats-language">
                     <h1>Test</h1>
