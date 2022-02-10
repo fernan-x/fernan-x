@@ -19,7 +19,7 @@
           <image xlink:href="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80" alt="Github stats"/>
         </div>
         <div class="github__stats-language">
-          <image xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&amp;show_icons=true&amp;theme=vue-dark" alt="Github language"/>
+          <image xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x&show_icons=true&theme=vue-dark" alt="Github language"/>
         </div>
       </div>
 
