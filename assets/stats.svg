@@ -18,11 +18,11 @@
       <div class="github__stats">
         <div class="github__stats-stat">
           <h1>Test</h1>
-          <image href="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b"/>
+          <image href="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b" height="200" width="200"/>
         </div>
         <div class="github__stats-language">
           <h1>Test 2</h1>
-          <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x%26show_icons=true%26theme=vue-dark" alt="Github language"/>-->
+          <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernan-x%26show_icons=true%26theme=vue-dark" alt="Github language" height="200" width="200"/>
         </div>
       </div>
 
