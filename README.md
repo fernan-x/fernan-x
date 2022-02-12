@@ -26,7 +26,11 @@ If you want to learn more about me, feel free to contact me 📬.
 
 </div>
 
-## My daily dev stats
+## My daily dev stats <img src="https://media3.giphy.com/media/kaCMhLe4cbFk9AzMOK/giphy.gif" width="25px" />
+
+Technical watch is an important aspect of our job. That's why I started using DailyDev. 
+
+And reading at least one article became a daily routine.
 
 <div align="center">
     <a href="https://app.daily.dev/Shads"><img src="devcard.svg" width="300" alt="Fabien Fernandes Alves's Dev Card"/></a>
