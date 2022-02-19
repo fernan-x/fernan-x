@@ -9,7 +9,7 @@ I'm Fabien, a french fullstack developer 🇫🇷. Tech lover & passionnate, I s
 
 Gratuated at Epitech Nantes, I've spend 1 year studying in Bahrein 🎓.  
 
-If you want to learn more about me, feel free to contact me 📬.
+If you want to learn more about me, feel free to contact [me](mailto:fwfabou@gmail.com") 📬.
 
 
   
