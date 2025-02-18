@@ -17,7 +17,7 @@ If you want to learn more about me, feel free to contact [me](mailto:fwfabou@gma
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fernan-x&theme=vue-dark&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernan-x&theme=vue-dark&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)](https://git.io/streak-stats)
   
   <hr/>
   
