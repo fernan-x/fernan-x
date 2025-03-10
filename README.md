@@ -36,7 +36,7 @@ Technical watch is an important aspect of our job. That's why I started using Da
 And reading at least one article became a daily routine.
 
 <div align="center">
-    <a href="https://app.daily.dev/Shads"><img src="devcard.svg" width="300" alt="Fabien Fernandes Alves's Dev Card"/></a>
+    <a href="https://app.daily.dev/shads"><img src="https://api.daily.dev/devcards/v2/oEzxWqnkxK5suJdaOF8zE.png?type=wide&r=9rj" width="652" alt="Fabien Fernandes Alves's Dev Card"/></a>
 </div>
 
 ## Get in touch with some of my skills <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="30" />
