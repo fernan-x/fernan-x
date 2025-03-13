@@ -35,15 +35,6 @@ I graduated from **Epitech Nantes** and had the incredible opportunity to study 
 - **🔹 Full-Stack Clean Architecture Project** → Exploring scalable designs 🏛  
 - **🔹 Web Scraper Experiment** → Playing with React libraries & Stripe integration 🕵️‍♂️  
 
-## 📌 Technical Watch
-
-Technical watch is an important aspect of our job. That's why I started using DailyDev. Reading at least one article became a daily routine.
-
-<div align="center">
-    <a href="https://app.daily.dev/shads"><img src="https://api.daily.dev/devcards/v2/oEzxWqnkxK5suJdaOF8zE.png?type=wide&r=9rj" width="652" alt="Fabien Fernandes Alves's Dev Card"/></a>
-</div>
-
-
 ## <img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="40" /> Github stats 
 
 <div align="center">
@@ -56,11 +47,23 @@ Technical watch is an important aspect of our job. That's why I started using Da
 
 </div>
 
+## 📌 Technical Watch
+
+Technical watch is an important aspect of our job. That's why I started using DailyDev. Reading at least one article became a daily routine.
+
+<div align="center">
+    <a href="https://app.daily.dev/shads"><img src="https://api.daily.dev/devcards/v2/oEzxWqnkxK5suJdaOF8zE.png?type=wide&r=9rj" width="652" alt="Fabien Fernandes Alves's Dev Card"/></a>
+</div>
+
 ## ✨ Latest Blog Post  
-[📝 Why I Migrated from Webpack to Vite](https://shadui.dev)
+* [📝 Tired of 1GB Docker Images? Let’s Fix That in 4 Easy Steps](https://blog.shadui.dev/shrink-your-docker-image/)
+* [📝 Migrating to Vite: How We Made Our React App 10x Faster with Less Configuration](https://blog.shadui.dev/migrating-from-webpack-to-vite/)
+* [📝 Dependency Injection in React: A Practical Guide](https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/)
+
+[Read all](https://blog.shadui.dev)
 
 ## 📌 Connect with Me  
-- **Blog:** [Odyssey](https://shadui.dev)  
+- **Blog:** [Odyssey](https://blog.shadui.dev)  
 - **LinkedIn:** [Fabien Fernandes Alves](https://www.linkedin.com/in/fabien-fernandes-alves/)  
 - **Porfolio:** [Mac portfolio](https://fabien.fernandesalves.fr/)
 
