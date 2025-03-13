@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="assets/stats.svg" width="500px" />
-</div>
+</div>-->
 
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> Hey, I'm Shads!
