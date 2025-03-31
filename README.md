@@ -1,7 +1,3 @@
-<!--<div align="center">
-  <img src="assets/stats.svg" width="500px" />
-</div>-->
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> Hey, I'm Shads!
 
 ### Full-Stack Developer | JavaScript/TypeScript Enthusiast | Exploring Clean Architecture & DDD
@@ -27,16 +23,6 @@ I graduated from **Epitech Nantes** and had the incredible opportunity to study 
 **DevOps:**
 
 <img src="https://img.shields.io/badge/Docker-282C34?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker logo" height="25" /> <img src="https://img.shields.io/badge/Docker%20Compose-282C34?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker Compose logo" height="25" /> <img src="https://img.shields.io/badge/GitHub%20Actions-282C34?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions logo" height="25" /> <img src="https://img.shields.io/badge/Jenkins-282C34?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins logo" height="25" />
-
-<!-- <img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-
-<img src="https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/Sass-282C34?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?style=for-the-badge&logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/GraphQL-282C34?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
--->
 
 ## 🌱 What I'm Building
 
