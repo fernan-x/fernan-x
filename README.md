@@ -26,10 +26,9 @@ I graduated from **Epitech Nantes** and had the incredible opportunity to study 
 
 ## 🌱 What I'm Building
 
-- **🔹 ReadME Rocket** → A tool to speed up README creation 🚀
-- **🔹 Odyssey Blog** → Sharing insights on dev journeys & best practices 📖
-- **🔹 Full-Stack Clean Architecture Project** → Exploring scalable designs 🏛
-- **🔹 Web Scraper Experiment** → Playing with React libraries & Stripe integration 🕵️‍♂️
+- **🔹 [ShadXtract](https://github.com/fernan-x/shadxtract)** → An AI-powered, no-code web scraping tool. 🕵️‍♂️
+- **🔹 [ReadME Rocket](https://github.com/fernan-x/readme-rocket)** → A tool to speed up README creation 🚀
+- **🔹 [Odyssey Blog](https://blog.shadui.dev/)** → Sharing insights on dev journeys & best practices 📖
 
 ## <img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="40" /> Github stats
 
@@ -53,9 +52,9 @@ Technical watch is an important aspect of our job. That's why I started using Da
 
 ## ✨ Latest Blog Post
 
+- [📝 Dependency Injection in React: A Practical Guide](https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/)
 - [📝 Tired of 1GB Docker Images? Let's Fix That in 4 Easy Steps](https://blog.shadui.dev/shrink-your-docker-image/)
 - [📝 Migrating to Vite: How We Made Our React App 10x Faster with Less Configuration](https://blog.shadui.dev/migrating-from-webpack-to-vite/)
-- [📝 Dependency Injection in React: A Practical Guide](https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/)
 
 [Read all](https://blog.shadui.dev)
 
